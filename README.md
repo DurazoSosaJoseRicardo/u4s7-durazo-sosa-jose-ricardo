@@ -36,4 +36,20 @@ sus propios servicios (probado con usuario_a y usuario_b).
 <!-- ## : subtítulo de la sección con la prueba de aislamiento -->
 ## Prueba de aislamiento
 <!-- reemplaza el texto entre corchetes por la descripción de tu prueba -->
-[Describe aqui en 3-4 lineas la prueba del paso 06]
+[se añadio la pantalla de login, el registro y se separo los servicios de los usuarios y se valido que funcionara de maner correcta y todo esto se subio a git hub y render]
+
+!-- título del repo: cambia por tus nombres reales -->
+# U4S7 — Durazo Sosa José Ricardo
+
+<!-- sección con la URL pública de Render -->
+## Demo en vivo (producción)
+<!-- tu dirección real de Render de esta práctica -->
+https://u4s7-hernandez-nunez-maria-jose.onrender.com
+
+<!-- resumen de lo que hiciste esta semana -->
+## Semana 7 — Pulido funcional y UX
+<!-- primera línea del resumen -->
+Paginación, búsqueda simple y estado vacío agregados al listado.
+<!-- segunda línea: los hallazgos de tu compañero y cómo los corregiste -->
+Hallazgos de la UI review corregidos: [1. se añadio una barra de busqueda funcional
+ 2 se valido que la barra cumpliera su funcio discrimando los servicios segun la coincidencia de los caracteres].
